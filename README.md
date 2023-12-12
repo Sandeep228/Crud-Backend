@@ -14,7 +14,7 @@ npm start
 
 This documentation provides information about the payload structure required for each endpoint.
 
-## 1. POST: /createItem
+## 1. POST: /items
 
 **Description:**
 Add a new user to the user table.
@@ -43,7 +43,7 @@ Add a new user to the user table.
 ```
 
 
-## 2. GET: /getItems
+## 2. GET: /items
 **Description:**
 Get user list.
 
